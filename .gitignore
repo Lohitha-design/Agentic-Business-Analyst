@@ -159,7 +159,9 @@ venv.bak/
 .env
 .env.local
 .env.*
-.streamlit/secrets.toml
+__pycache__/
+venv/
+.venv/
 
 # Spyder project settings
 .spyderproject
